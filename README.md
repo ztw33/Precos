@@ -1,4 +1,4 @@
-# Pracos: Project-specific Retrieval Augmentation for Better Code Summarization
+# Precos: Project-specific Retrieval for Better Code Summarization
 
 ## dependencies
 Please refer to [knn-transformers](https://github.com/neulab/knn-transformers).
